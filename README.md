@@ -32,7 +32,7 @@ Based on the analysis, the following high-level metrics were identified:
 - **Seasonality:** Performance dipped during the **Festive season**, suggesting a need for increased logistics capacity during peak sales periods.
 
 ## Repository Structure
-- `/Data`: Contains the `FC project.xlsx` source file.
+- `/Data`: Contains the `FC_project.xlsx` source file.
 - `/Dashboard`: Contains the `Firstcry_PowerBI.pbix` file.
 - `README.md`: Project documentation.
 
