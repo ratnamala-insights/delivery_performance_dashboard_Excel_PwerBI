@@ -1,7 +1,10 @@
-# FirstCry Delivery Performance Analysis
+# HexaKart Delivery Performance Analysis
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/03901347-6810-4fcf-b2e9-b5ae2dbf48ce" />
+
 
 ## Project Overview
-This project provides a data-driven analysis of FirstCry’s logistics operations. By examining 5,000 order records, I identified key performance indicators (KPIs) related to delivery success, turnaround time (TAT), and return-to-origin (RTO) patterns.
+This project provides a data-driven analysis of HexaKart(dummy company) logistics operations. By examining 5,000 order records, I identified key performance indicators (KPIs) related to delivery success, turnaround time (TAT), and return-to-origin (RTO) patterns.
 
 The goal of this project was to evaluate delivery partner efficiency and pinpoint the primary reasons for non-delivery (NDR).
 
@@ -9,8 +12,12 @@ The goal of this project was to evaluate delivery partner efficiency and pinpoin
 Based on the analysis, the following high-level metrics were identified:
 - **Delivery Success Rate:** 76.78%
 - **RTO (Return to Origin) Rate:** 23.22%
-- **Late Delivery Rate:** 66.24%
+- **Late Delivery Rate:** 66%
 - **Average Turnaround Time (TAT):** 3.95 Days
+
+<img width="525" height="100" alt="image" src="https://github.com/user-attachments/assets/f4c3e532-ab38-4c6b-815b-f03497c7b269" />
+
+
 
 ## Tools & Methodology
 ### Microsoft Excel
@@ -33,10 +40,7 @@ Based on the analysis, the following high-level metrics were identified:
 
 ## Repository Structure
 - `/Data`: Contains the `FC_project.xlsx` source file.
-- `/Dashboard`: Contains the `Firstcry_PowerBI.pbix` file.
+- `/Dashboard`: Contains the `HexaKart_PowerBI.pbix` file.
 - `README.md`: Project documentation.
 
-## How to Use
-1. Download the `.pbix` file.
-2. Open it using **Power BI Desktop**.
-3. Ensure the data source is linked to the provided Excel file to view the interactive elements.
+
